@@ -1,0 +1,154 @@
+* body {
+    margin: 0%;
+    font-family: 'Work Sans';
+}
+
+/* header texts */
+
+
+
+
+.discription {
+    position: absolute;
+    width: 525px;
+    height: 230px;
+    top: 216px;
+    left: 845px;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    color: black;
+    margin-right: 230;
+
+
+}
+
+.h-discription {
+    position: absolute;
+    width: 490px;
+    height: 80px;
+    top: 480px;
+    left: 876px;
+    line-height: 26px;
+    text-align: right;
+    color: #444343;
+
+}
+
+
+
+
+button {
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 590px;
+    Weight: 600;
+    color: whitesmoke;
+    background-color: orangered;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+}
+
+
+/* the business woman lady section */
+
+.lady-with-letters {
+    display: flex;
+    justify-items: left;
+    width: 800px;
+    list-style: none;
+
+
+}
+
+.failure-title {
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.lady-coversation {
+    display: block;
+
+    width: 420px;
+    height: 400px;
+    top: 200px;
+    left: 890px;
+    bottom: 1660px;
+    right: 305px;
+
+}
+
+/* my plan section */
+
+.plans {
+    max-width: 1140px;
+    margin: 0, auto;
+    margin-top: 10px;
+    padding: 300px;
+    
+
+
+
+}
+
+.section-title {
+    text-align: center;
+    font-weight: 800;
+    font-size: 50px;
+    margin-bottom: 55px;
+    
+
+
+}
+.plans .skills-container {
+    position: absolute;
+    display: flex;
+    gap: 200px;
+    padding-right:200px;
+    justify-content: space-around;
+    
+    
+}
+
+/* faded banner */
+
+.faded-banner{
+max-width: 1140px;
+max-height: 300px;
+position: absolute;
+background-image:  linear-gradient(rgb(255, 87, 26)), url(../new-year-new-me/images/watch.png);
+
+
+
+}
+
+.faded-banner .positive{
+
+    position: absolute;
+
+}
+.faded-banner .faded-banner{
+    position: absolute;
+    
+    text-decoration: solid, orangered;
+}
+/* social media */
+.sm-icons{
+    display: block;
+
+}
+
+.bottom-body{
+
+    display: flex;
+    position: absolute;
+    
+}
+
+
+
